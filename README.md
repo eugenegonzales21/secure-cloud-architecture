@@ -4,7 +4,7 @@
 ## Student Information
 Name:Eugene Josh M. Gonzales
 Section:7E
-Course:BSIT
+Course:BSIT-NETADMIN
 Date:09/06/2026
 
 ## Project Description
