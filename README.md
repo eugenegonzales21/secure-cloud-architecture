@@ -2,10 +2,10 @@
 # Secure Cloud Architecture
 
 ## Student Information
-Name:
-Section:
-Course:
-Date:
+Name:Eugene Josh M. Gonzales
+Section:7E
+Course:BSIT
+Date:09/06/2026
 
 ## Project Description
 This activity demonstrates a proposed secure cloud architecture for a Student Management Application.
