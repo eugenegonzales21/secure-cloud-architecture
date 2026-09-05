@@ -19,4 +19,3 @@ Application servers process requests from users. These servers should be placed 
 ## Database
 The database stores student records. The database should remain private and should not be directly accessible from the Internet.
 # Public and Private Resources
-
