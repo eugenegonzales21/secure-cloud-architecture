@@ -14,7 +14,7 @@ This activity demonstrates a proposed secure cloud architecture for a Student Ma
 Users → CDN → Load Balancer → Application Servers → Private Database
 
 ## Security Controls
-- IAM
+- IAM-Controls who can access the system and what they are allowed to do.
 - MFA
 - Firewall / Security Groups
 - Private Subnets
